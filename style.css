@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+}
+.profile{
+    height: 250;
+    border-radius: 75%;
+}
+#welcome{
+    background: linear-gradient(#03fccf 0%, #00ff9d 100%);
+    position: absolute;
+    height: 100%;
+    top: 0px;
+    width: 100%;
+    right: 0%;
+    left:0%;
+}
+.text{
+    font-family: 'Redressed', cursive;
+}
+#bio{
+    padding: 50px;
+    text-align: center;
+    font-size: 40px;
+    
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+p{
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 20px;
+    line-height: 1.3xpx;
+}
