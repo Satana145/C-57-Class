@@ -18,6 +18,8 @@ body{
 }
 .text{
     font-family: 'Redressed', cursive;
+    font-size: 50px;
+    color: royalblue;
 }
 #bio{
     padding: 50px;
